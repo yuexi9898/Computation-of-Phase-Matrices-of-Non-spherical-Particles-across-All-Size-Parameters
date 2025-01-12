@@ -1,6 +1,6 @@
 # Computation-of-Phase-Matrices-of-Non-spherical-Particles-across-All-Size-Parameters
 
-This database contains data from certain manuscripts. The data is divided into two categories.
+This database contains data from manuscripts, entitled "Application of Deep Learning to Enhance the Computation of Phase Matrices of Non-spherical Particles across All Size Parameters". The database mainly consists of the scattering matrices data of certain super-spheroids at specific refractive indices. The data is divided into two categories.
 
 1）The first category includes the scattering matrix data for size parameters across all size parameters computed by IITM and IGOM.
 The filenames are in the format: ref_{mr}_{mi}_asp_x_n_x_{pij}.dat. In these files, the portion with size parameters less than 50 is computed using IITM, while the portion with size parameters greater than 50 is computed using IGOM. 
